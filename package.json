@@ -1,0 +1,14 @@
+{
+  "name": "static-testing-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcello-ants/static-analysis-testing-js.git",
+  "author": "Marcello Antunes",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "eslint": "6.7.2"
+  }
+}
